@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LaFougere</h1>
 <h3 align="center">A passionate 42 Student from France</h3>
 
-- 🔭 I’m currently working on **So Long**
+- 🔭 I’m currently working on **Philosophers**
 
 - 🌱 I’m currently learning **C, php, js and Three.js**
 
