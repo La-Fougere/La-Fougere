@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm LaFougere</h1>
 <h3 align="center">A passionate 42 Student from France</h3>
 
-- 🔭 I’m currently working on **Philosophers**
+- 🔭 I’m currently working on **Net Practice**
 
-- 🌱 I’m currently learning **C, php, js and Three.js**
+- 🌱 I’m currently learning **C, PHP, JS and Three.js**
 
 - 👨‍💻 All of my projects are available on my Github and my website (under development): [https://teamgeek.fr](https://teamgeek.fr)
 
