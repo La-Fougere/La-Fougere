@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm LaFougere</h1>
-<h3 align="center">A passionate 42 Student from France</h3>
+<h3 align="center">A french passionate 42 Student</h3>
 
 - 🔭 I’m currently working on **Net Practice**
 
 - 🌱 I’m currently learning **C, PHP, JS and Three.js**
 
-- 👨‍💻 All of my projects are available on my Github and my website (under development): [https://teamgeek.fr](https://teamgeek.fr)
+- 👨‍💻 My projects are available on my Github and my website (under development): [https://teamgeek.fr](https://teamgeek.fr)
 
 - 🔗 I also created a very cute and simple ad free url shortener: [https://lien.cat](https://lien.cat)
 
-- 💬 Ask me about **Minecraft (yes i love this game), php, html, css, python, C**
+- 💬 Ask me about **Minecraft dev (yes i love this game, especially command blocks and datapacks)**
 
 - 📫 How to reach me: **[My discord](https://teamgeek.fr/discord)**
 
 - 💝 Support me on tipeee: [https://tipeee.com/lafougere](https://tipeee.com/lafougere)
 
-- ⚡ Fun fact: **I released a song on spotify: https://lien.cat/spotify**
+- ⚡ Fun fact: **I released 2 songs on spotify: https://lien.cat/spotify**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
